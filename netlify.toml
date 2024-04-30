@@ -1,0 +1,4 @@
+[[redirects]]
+from ="/*"
+to = "/main_page.html"
+statis=200
